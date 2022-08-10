@@ -21,9 +21,9 @@
 ## Repository Link
 
 - Repository can be found at:
-  [GitHub](https://github.com/susangrace909/EmployeeTracker.git)
-  [Live](https://susangrace909.github.io/EmployeeTracker/)
+  [GitHub](https://github.com/susangrace909/WorkdayScheduler.git)
+  [Live](https://susangrace909.github.io/WorkdayScheduler/)
 
 ## Screenshot of Site:
 
-![Screenshot](EmployeeTracker.png)
+![Screenshot](WorkdayScheduler.png)
